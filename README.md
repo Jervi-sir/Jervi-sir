@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # You are the 'nth' who visited this page
-<div class="middle">
+<div align="center">
   
 ![visitors](https://profile-counter.glitch.me/Jervi-sir/count.svg)
 
