@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # You are the 'nth' who visited this page
-<div class="center">
+<div class="middle">
+  
 ![visitors](https://profile-counter.glitch.me/Jervi-sir/count.svg)
+
 </div>
 
 - 🔭 Currently working on : Video Room system
