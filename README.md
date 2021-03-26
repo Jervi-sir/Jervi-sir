@@ -4,7 +4,7 @@
   <h3>
     <span> | </span>
     <a href="https://jervi.netlify.app/">
-      Demo
+      Jervi.com
     </a>
     <span> | </span>
   </h3>
