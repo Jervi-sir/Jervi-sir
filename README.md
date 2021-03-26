@@ -1,7 +1,14 @@
 ### Hi it's - JERVI - 👋
 
-<div align="center><a href="https://jervi.netlify.app/"> Jervi.com </a> </div>
-
+<div align="center">
+  <h3>
+    <span> | </span>
+    <a href="https://jervi.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+  </h3>
+</div>
 <!--
 **Jervi-sir/Jervi-sir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
