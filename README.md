@@ -3,12 +3,12 @@
 <div align="center">
   <h3>
     <span> | </span>
-    <a href="https://jervi.netlify.app/">
-      Jervi.com
-    </a>
-    <span> | </span>
     <a href="https://gacem.netlify.app/">
       Gacem.com
+    </a>
+    <span> | </span>
+    <a href="https://jervi.netlify.app/">
+      Jervi.com
     </a>
     <span> | </span>
   </h3>
