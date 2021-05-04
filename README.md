@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="175px">
+  <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="20em">
 </div>
 
 ### Hi it's - JERVI - 👋
