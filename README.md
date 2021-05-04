@@ -1,5 +1,5 @@
-<div align="left">
-  <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/logo.png" width="20px">
+<div >
+  <img align="right" src="https://github.com/Jervi-sir/Jervi-sir/blob/main/logo.png" width="100px">
 </div>
 
 ### Hi it's - JERVI - 👋
@@ -42,7 +42,7 @@ BRUHHHHH
 
 
 
-<div align="left">
-  <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="20px">
+<div>
+  <img align="right" src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="100px">
 </div>
 
