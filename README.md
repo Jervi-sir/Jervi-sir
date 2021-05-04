@@ -1,5 +1,6 @@
 <div >
   <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/logo.png" width="100px">
+  <img align="right" src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="200px">
 </div>
 
 ### Hi it's - JERVI - 👋
@@ -43,6 +44,6 @@ BRUHHHHH
 
 
 <div>
-  <img align="right" src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="200px">
+ 
 </div>
 
