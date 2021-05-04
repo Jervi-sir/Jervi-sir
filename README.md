@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/logo.png" width="20px">
+</div>
+
 ### Hi it's - JERVI - 👋
 
 <div align="center">
@@ -35,3 +39,10 @@
 - 😄 Pronouns: Jervi
 - ⚡ Fun fact: i'm Jervi, 
 BRUHHHHH
+
+
+
+<div align="left">
+  <img src="https://github.com/Jervi-sir/Jervi-sir/blob/main/jervi.png" width="20px">
+</div>
+
