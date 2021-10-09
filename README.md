@@ -29,7 +29,7 @@
 
 <div align="center">
   
-![Jervi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jervi-sir)](https://github.com/anuraghazra/github-readme-stats)
+![Jervi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jervi-sir)]
   
 </div>
 
