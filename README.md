@@ -24,7 +24,7 @@
 <div align="center">
   
 ![visitors](https://profile-counter.glitch.me/Jervi-sir/count.svg)
-
+[![Jervi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jervi-sir)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 - 🔭 Currently working on : Video Room system
@@ -40,8 +40,6 @@
 - 😄 Pronouns: Jervi
 - ⚡ Fun fact: i'm Jervi, 
 BRUHHHHH
-
-[![Jervi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jervi-sir)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
  
