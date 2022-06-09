@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jervi-sir/Jervi-sir/main/Jervi_100ms_1.5time.gif" width="360px">
+  <img src="https://raw.githubusercontent.com/Jervi-sir/Jervi-sir/main/Jervi_100ms_oneTime.gif" width="360px">
 </div>
 
 ### Hi it's - JERVI - 👋
