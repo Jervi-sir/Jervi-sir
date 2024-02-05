@@ -40,7 +40,7 @@ nth visitor
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-4338ca?style=for-the-badge&logo=Portfolio&logoColor=white 'Portfolio')](https://gacem.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1 'Linkedin')](https://www.linkedin.com/in/%F0%9F%92%BB-jervi-sir-84a74b1a2/)
-[![Telegram](https://img.shields.io/badge/-instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0088cc 'Instagram')](https://t.me/emanuelefavero)
+[![Telegram](https://img.shields.io/badge/-instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0088cc 'Instagram')]([https://t.me/emanuelefavero](https://www.instagram.com/gacem_humen/))
 [![Gmail](https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gacembekhira.personal@gmail.com)
 
 </div>
