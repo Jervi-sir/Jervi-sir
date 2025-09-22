@@ -1,6 +1,8 @@
+<!!--
 <div align="center">
   <img src="Jervi_oneTime_100ms.gif"  width="360px">
-</div>
+</div> 
+--!!>
 
 <div align="center">
   <h1>Hi it's - JERVI</h1>
