@@ -1,11 +1,11 @@
-<!!--
+<!---
 <div align="center">
   <img src="Jervi_oneTime_100ms.gif"  width="360px">
 </div> 
---!!>
+--!>
 
 <div align="center">
-  <h1>Hi it's - JERVI</h1>
+  <h1>Hi it's - JERVI (Bekhira Gacem)</h1>
 </div>
 
 <div align="center">
