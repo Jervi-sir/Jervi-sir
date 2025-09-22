@@ -1,8 +1,4 @@
-<!---
-<div align="center">
-  <img src="Jervi_oneTime_100ms.gif"  width="360px">
-</div> 
---!>
+
 
 <div align="center">
   <h1>Hi it's - JERVI (Bekhira Gacem)</h1>
@@ -107,4 +103,10 @@ all of them dude, what do you think I do, Writing code withouth them, nah man, I
 
 - 📱 **But** I rarely work with Clients.
 
+
+<!---
+<div align="center">
+  <img src="Jervi_oneTime_100ms.gif"  width="360px">
+</div> 
+--!>
 
