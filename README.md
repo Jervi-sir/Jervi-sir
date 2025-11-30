@@ -72,7 +72,7 @@ nth visitor
 
 ### Database | CMS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-and I don't use Non-relational db, m looking for a wife remember
+and I don't use Non-relational db <!--, m looking for a wife remember -->
 
 ### Hosting I like to use | CMS
 
@@ -88,9 +88,12 @@ and I don't use Non-relational db, m looking for a wife remember
 ![Arduino](https://img.shields.io/badge/Arduino-217346?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Midi](https://img.shields.io/badge/Midi_DIY-217346?style=for-the-badge&logo=Midi&logoColor=white)
 
-### Ai I use
+### Ai/Automation I use
+![n8n](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n)
+![Openai api](https://shields.io/badge/-OpenAI-93f6ef?logo=openai)
+![Gemini api](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-all of them dude, what do you think I do, Writing code withouth them, nah man, I can live 100years max if possible
+<!--all of them dude, what do you think I do, Writing code withouth them, nah man, I can live only 100years max if possible -->
 
 &nbsp;
 
@@ -98,10 +101,10 @@ all of them dude, what do you think I do, Writing code withouth them, nah man, I
 
 ## **Experience** 📈
 
-- 👨‍💻 **+ half decade** years in Back-end Development
-- 👨‍💻 **+ half decade** years in Front-end Development
+- 👨‍💻 **since 2019** in Back-end Development
+- 👨‍💻 **since 2022** in Front-end Development
 
-- 📱 **But** I rarely work with Clients.
+- 📱 **And**  mostly I like to dig into system design and scalability, especially dev-ops.
 
 
 <!---
