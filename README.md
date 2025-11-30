@@ -25,13 +25,11 @@
 You are the
 </div>
 <div>
-
-![visitors](https://profile-counter.glitch.me/Jervi-sir/count.svg)
+  
+![ ](https://jervi-counter.vercel.app/api/counter?theme=3d-num)
 
 </div>
-<div>
-nth visitor
-</div>
+
 </div>
 
 <div align="center">
@@ -43,11 +41,11 @@ nth visitor
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 ![Jervi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jervi-sir)
   
-</div>
+</div> -->
 
 &nbsp;
 
